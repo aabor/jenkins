@@ -1,5 +1,5 @@
 # https://hub.docker.com/r/jenkinsci/blueocean/tags
-FROM jenkinsci/blueocean:1.24.1
+FROM jenkinsci/blueocean:1.24.3
 
 LABEL maintainer="Alexander Borochkin <aabor@aabor-nn.com>"
 
